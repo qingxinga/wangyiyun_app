@@ -1,0 +1,35 @@
+{
+  "name": "wangyiyun-app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@vant/compat": "^1.0.0",
+    "core-js": "^3.8.3",
+    "vant": "^4.8.0",
+    "vue": "^3.2.13",
+    "vue-marquee-text-component": "^2.0.1",
+    "vue-router": "^4.0.3",
+    "vuex": "^4.0.0",
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "@vant/auto-import-resolver": "^1.0.2",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "less": "^4.0.0",
+    "less-loader": "^8.0.0",
+    "unplugin-vue-components": "^0.26.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
